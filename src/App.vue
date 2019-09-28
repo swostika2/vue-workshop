@@ -9,6 +9,7 @@ import RegistrationForm from "./components/RegistrationForm.vue";
 
 export default {
   name: "app",
+
   components: {
     RegistrationForm
   }
